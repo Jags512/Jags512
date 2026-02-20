@@ -61,7 +61,9 @@ This project predicts house prices based on various features such as location, s
    git clone https://github.com/Jags512/House-price-prediction.git
 
 
-   📱 2️⃣ Mobile Price Prediction
+
+
+## 📌  📱 2️⃣ Mobile Price Prediction
 
 🔍 A Machine Learning classification project that predicts mobile phone price range based on specifications such as RAM, battery power, internal memory, camera quality, etc.
 
@@ -100,7 +102,7 @@ Deployed ML Web Application
 
 
 
-📊 1️⃣ Student Performance Prediction
+##📌📊 1️⃣ Student Performance Prediction
 
 🔍 A Machine Learning project that predicts student exam performance based on factors like study hours, gender, parental education level, and other academic attributes.
 
