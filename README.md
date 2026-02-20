@@ -61,6 +61,81 @@ This project predicts house prices based on various features such as location, s
    git clone https://github.com/Jags512/House-price-prediction.git
 
 
+   📱 2️⃣ Mobile Price Prediction
+
+🔍 A Machine Learning classification project that predicts mobile phone price range based on specifications such as RAM, battery power, internal memory, camera quality, etc.
+
+🛠️ Technologies Used
+
+Python
+
+Pandas
+
+NumPy
+
+Scikit-learn
+
+Random Forest Classifier
+
+Gradio
+
+Hugging Face Spaces
+
+🎯 Key Features
+
+Data cleaning & preprocessing
+
+Feature scaling
+
+Model training & evaluation
+
+Real-time prediction interface
+
+Deployed ML Web Application
+
+🌐 Live Demo
+
+👉 https://huggingface.co/spaces/jagruti512/mobile
+
+
+
+
+📊 1️⃣ Student Performance Prediction
+
+🔍 A Machine Learning project that predicts student exam performance based on factors like study hours, gender, parental education level, and other academic attributes.
+
+🛠️ Technologies Used
+
+Python
+
+Pandas
+
+NumPy
+
+Scikit-learn
+
+Random Forest Regressor
+
+Gradio
+
+Hugging Face Spaces
+
+🎯 Key Features
+
+Data preprocessing & feature engineering
+
+Label encoding & scaling
+
+Model training using Random Forest
+
+Performance evaluation (Accuracy & Metrics)
+
+Interactive Web App Deployment
+
+🌐 Live Demo
+
+👉 https://huggingface.co/spaces/jagruti512/student_perfomace_project
+
 # 📄 Document Q&A RAG Assistant
 
 ## 📌 Project Overview
